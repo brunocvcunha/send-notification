@@ -45,6 +45,7 @@ public abstract class Notification {
      *
      * @return icon.
      */
+    @Nullable
     public abstract Icon icon();
 
     /**
